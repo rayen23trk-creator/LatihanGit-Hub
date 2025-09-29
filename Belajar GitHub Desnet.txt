@@ -3,4 +3,6 @@ Tahapan Belajar Git-Hub:
 2.Belajar Comit
 3.Belajar Branch
 4.Belajar pull
-5.Belajar push
+5.Belajar conffict
+6.Belajar push
+7.Belajar Clone
